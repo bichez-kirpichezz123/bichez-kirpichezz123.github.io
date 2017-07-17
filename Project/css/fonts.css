@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "HeliosLight";
+	src : url(../fonts/HeliosLight.ttf);
+}
+@font-face {
+	font-family: "Verdana";
+	src : url(../fonts/Verdana-regular.ttf);
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Verdana";
+	src : url(../fonts/Verdana-bold.ttf);
+	font-weight: bold;
+}
